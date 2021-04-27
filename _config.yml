@@ -1,8 +1,12 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: Ziqian Xia
+description: Welcome to Ziqian Xia's Personal Page.
 show_downloads: true
-
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+color:
+  header: "#FFFFFF"
+  gradient_left: "#30E8BF"
+  gradient_right: "#FF8235"
+  
+baseurl: "/blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
 
 
