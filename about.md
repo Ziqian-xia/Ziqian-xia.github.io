@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resources
 tagline: A few more words about this theme
 permalink: /about.html
 ref: about
