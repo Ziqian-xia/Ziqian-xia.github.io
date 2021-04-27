@@ -1,10 +1,6 @@
 title: Ziqian Xia
 description: Welcome to Ziqian Xia's Personal Page.
 show_downloads: true
-color:
-  header: "#FFFFFF"
-  gradient_left: "#30E8BF"
-  gradient_right: "#FF8235"
   
 baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://Ziqian-xia.github.io/blog" # change this to the base hostname & protocol for your site
