@@ -8,10 +8,14 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+## Ziqian Xia's Page
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
 
-Have a look at the Github page for more information.
+- I am interested in research on environmental behavior and environmental economics. Currently I am trying to measure pro-environmental behavior using IoT data. See [my research section](Ziqian-xia.github.io/myresearch) for detail.
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+- I am a fan of [R](www.rstudio.com/) and I enjoy using it for modeling and visualization. I am currently working on a visualization package that help figures easily meets the publication requirements. If you are interested please visit the [resources](Ziqian-xia.github.io/resources) page.
+
+You can directly download my CV and my talk from the website. Thank you!
+
+**Now I am seeking for available Masters or PhD positions, feel free to reach me if there any info and chances**
