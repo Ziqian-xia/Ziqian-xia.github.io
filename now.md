@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Now
+title: Contact
 tagline: What I'm doing now
 permalink: /now.html
 ref: now
