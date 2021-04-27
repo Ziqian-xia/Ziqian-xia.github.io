@@ -8,11 +8,11 @@
 layout: home
 ---
 
-Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
+Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://www.ncu.edu.cn) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
 
-- I am interested in research on environmental behavior and environmental economics. Currently I am trying to measure pro-environmental behavior using IoT data. See [my research section](Ziqian-xia.github.io/myresearch) for detail.
+- I am interested in research on environmental behavior and environmental economics. Currently I am trying to measure pro-environmental behavior using IoT data. See [my research section](https://ziqian-xia.github.io/now.html) for detail.
 
-- I am a fan of [R](www.rstudio.com/) and I enjoy using it for modeling and visualization. I am currently working on a visualization package that help figures easily meets the publication requirements. If you are interested please visit the [resources](Ziqian-xia.github.io/resources) page.
+- I am a fan of [R](https://www.rstudio.com) and I enjoy using it for modeling and visualization. I am currently working on a visualization package that help figures easily meets the publication requirements. If you are interested please visit the [resources](https://ziqian-xia.github.io/about.html) page.
 
 You can directly download my CV and my talk from the website. Thank you!
 
