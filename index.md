@@ -8,8 +8,6 @@
 layout: home
 ---
 
-## Ziqian Xia's Page
-
 Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
 
 - I am interested in research on environmental behavior and environmental economics. Currently I am trying to measure pro-environmental behavior using IoT data. See [my research section](Ziqian-xia.github.io/myresearch) for detail.
