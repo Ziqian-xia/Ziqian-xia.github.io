@@ -3,7 +3,7 @@ layout: post
 title: "具体改动方案"
 ---
 
-这里列出了具体改动的地方和改动的方案，参考To-Do-List以确保所有小点都被改动了。在Responses中，每个小点需要回复半页纸左右的内容，文章的改动需要在正文中标记，Responses中引文需要引用。参考的文章如下：
+这里列出了具体改动的地方和改动的方案，参考[To-Do-List](https://ziqian-xia.github.io/2021/04/28/To-do-LIST.html)以确保所有小点都被改动了。在Responses中，每个小点需要回复半页纸左右的内容，文章的改动需要在正文中标记，Responses中引文需要引用。参考的文章如下：
 
 
 ## 结构上
