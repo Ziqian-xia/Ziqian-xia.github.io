@@ -2,14 +2,15 @@
 layout: page
 title: Resources
 tagline: Useful Codes, Packages and Tutorials 
-permalink: /about.html
+permalink: /resources.html
 ref: about
 order: 0
 ---
+Here is the place for resources (Including tutorials, packages and research-related materials).
 
-This site is under development, check here later to see more [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Updated 2021-06-05
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+[Tutorial repository of meta-analyses and systematic reviews](https://ziqian-xia.github.io/resource/)
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
