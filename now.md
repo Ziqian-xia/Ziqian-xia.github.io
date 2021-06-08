@@ -2,11 +2,31 @@
 layout: page
 title: Research
 tagline: What I'm doing now
-permalink: /now.html
+permalink: /research.html
 ref: now
 order: 2
 ---
 
-This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
+My research interest is about environmental behavior and economics. For now, I have several articles are in under review stage.
+
+- Environmental Psychology
+
+Understanding waste sorting behavior and key influencing factors through big data based on Internet of Things, 
+*Resources, Recycling and Conservation (Second-Round review)*
+Aiding Pro-Environment Behavior Measurements by Internet of Things,
+*Current Research in Behavioral Sciences (Under review)*
+
+- Text as data
+
+Public Sentiment Analysis of New Energy Vehicle: A Case Study of Chinese Internet Data,
+*Renewable & Sustainable Energy Reviews (Under review)*
+
+- Bibliometrics and Systematic Review
+
+Bibliometric analysis of global research trends and prospects of fine roots in forest ecosystems, *Science of The Total Environment (Submitted to the journal)
+
+- Machine Learning and Modelling
+Estimation of Solid Medical Waste Production and Environmental Impact Analysis in the Context of COVID-19: A Case Study of Hubei Province in China, *Plos One (Under review)*
+
 
 [Go to the Home Page]({{ '/' | absolute_url }})
