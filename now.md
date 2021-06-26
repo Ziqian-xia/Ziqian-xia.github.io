@@ -12,9 +12,14 @@ My research interest is about environmental behavior and economics. For now, I h
 - Environmental Psychology
 
 Understanding waste sorting behavior and key influencing factors through big data based on Internet of Things, 
-*Resources, Recycling and Conservation (Second-Round review)*
+*Resources, Recycling and Conservation (**Accepted, Coming Soon**)*
+
+
 Aiding Pro-Environment Behavior Measurements by Internet of Things,
-*Current Research in Behavioral Sciences (Under review)*
+*Current Research in Behavioral Sciences (Submitted)*
+
+
+Working Paper X 2
 
 - Text as data
 
