@@ -6,7 +6,7 @@ baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it emp
 url: "https://Ziqian-xia.github.io" # change this to the base hostname & protocol for your site
 
 
-google_analytics:
+google_analytics: G-Q7WG8NN5F8
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
