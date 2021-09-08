@@ -12,5 +12,7 @@ Updated 2021-06-05
 
 [Tutorial repository of meta-analyses and systematic reviews](https://ziqian-xia.github.io/resource/)
 
+[Cheatsheet for meta-analysis in Social Science](https://github.com/Ziqian-xia/resource/blob/main/cheatsheet_v1.pdf)
+
 
 [Go to the Home Page]({{ '/' | absolute_url }})
