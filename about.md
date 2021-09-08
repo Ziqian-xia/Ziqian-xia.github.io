@@ -8,7 +8,7 @@ order: 0
 ---
 Here is the place for resources (Including tutorials, packages and research-related materials).
 
-Updated 2021-06-05
+Updated 2021-09-08
 
 [Tutorial repository of meta-analyses and systematic reviews](https://ziqian-xia.github.io/resource/)
 
