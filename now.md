@@ -12,11 +12,11 @@ My research interest is about environmental behavior and economics. For now, I h
 - Environmental Psychology
 
 Understanding waste sorting behavior and key influencing factors through big data based on Internet of Things, 
-*Resources, Conservation and Recycling (**Accepted, Coming Soon**)*
+*Resources, Conservation and Recycling (**Accepted**,(Click here)[https://www.sciencedirect.com/science/article/abs/pii/S0921344921003840]*)
 
 
 Aiding Pro-Environment Behavior Measurements by Internet of Things,
-*Current Research in Behavioral Sciences (Submitted)*
+*Current Research in Behavioral Sciences (**Accepted**,(Click here)[https://www.sciencedirect.com/science/article/pii/S2666518221000425])*
 
 
 - Text as data
@@ -26,7 +26,7 @@ Public Sentiment Analysis of New Energy Vehicle: A Case Study of Chinese Interne
 
 - Bibliometrics and Systematic Review
 
-Bibliometric analysis of global research trends and prospects of fine roots in forest ecosystems, *Science of The Total Environment (Submitted to the journal)
+Bibliometric analysis of global research trends and prospects of fine roots in forest ecosystems, *Science of The Total Environment (Submitted to the journal)*
 
 - Machine Learning and Modelling
 Estimation of Solid Medical Waste Production and Environmental Impact Analysis in the Context of COVID-19: A Case Study of Hubei Province in China, *Plos One (Under review)*
