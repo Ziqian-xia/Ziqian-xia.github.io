@@ -18,4 +18,4 @@ Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](http
 
 You can directly download my CV and my talk from the website. Thank you!
 
-**Now I am seeking for available Masters or PhD positions, feel free to reach me if there any info and chances**
+**I will join [Chao Zhang's Group](https://sem.tongji.edu.cn/semen/12413.html) in [Tongji University](https://en.tongji.edu.cn/) next year.**
