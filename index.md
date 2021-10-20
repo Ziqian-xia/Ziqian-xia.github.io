@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://www.ncu.edu.cn) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
+Hi there, I am Ziqian Xia, an undergraduate student at [Nanchang University](https://www.ncu.edu.cn) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
 
 *Note that from June 2021 to Sep 2021, I am a research assistant in [University of Winnipeg](https://www.uwinnipeg.ca/), for related research, please contact me via **z.xia-ra@uwinnipeg.ca**.*
 
