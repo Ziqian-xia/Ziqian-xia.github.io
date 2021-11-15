@@ -8,4 +8,4 @@
 layout: home
 ---
 
-This site had been transfered to https://ziqian-xia.tech.
+This site had been transfered to [https://ziqian-xia.tech](https://ziqian-xia.tech)
